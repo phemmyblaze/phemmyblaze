@@ -8,7 +8,7 @@ Here are some ideas to get you started:
   - 👨‍💻Trainee at [Kodecamp](https://kodehauz.com)
   - 🧍‍♂️Volunteer at [CodeCamp](codeclannigeria.dev)
   
-🌱 I’m currently learning 
+🌱 **What I'm learning**  
    -🏫 JavaScript and ReactJS
   
 ⚡ **More about me**
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  ⚡ Fun fact: I love Hiking
     
     
-
+<div>
   <a href="/" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyblaze&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
   </a>
