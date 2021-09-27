@@ -13,7 +13,9 @@ Frontend Engineer with rock-solid experience in building interactive website wit
    ⚡ **More about me** 
   - I'm Teachable
   - I'm Diligent 
-  - I'm strong willed   
+  - I'm strong willed 
+
+ 
 - 📫 How to reach me: 
 	- Twitter: [phemmyblaz](https://twitter.com/phemmyblaz) 
 	- LinkedIn: [Akinuliola Akinbobola](https://www.linkedin.com/in/akinulilalaakinbobolaoluwafemi/)
@@ -35,8 +37,5 @@ Frontend Engineer with rock-solid experience in building interactive website wit
   </a>
 </div>
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=phemmyblaze&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="700"
-/>
 
 
