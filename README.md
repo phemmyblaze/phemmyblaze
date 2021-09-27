@@ -1,5 +1,5 @@
 ### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-Frontend Engineer with rock-solid experience in building interactive website with Html and css. I author meaningful technical content, occassionally ✍🏽.
+Frontend Engineer with rock-solid experience in building interactive website with Html and css. I author meaningful technical content, write occassionally ✍🏽.
 
 Here are some ideas to get you started:
   
