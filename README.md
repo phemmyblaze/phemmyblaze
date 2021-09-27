@@ -3,25 +3,26 @@ Frontend Engineer with rock-solid experience in building interactive website wit
 
 Here are some ideas to get you started:
   
-  ⚡ What I do 
-  . 👩‍🎓Student at [Obafemi Awolowo University]
-  . 👨‍💻Trainee at [Kodecamp](https://kodehauz.com)
-  . 🧍‍♂️Volunteer at [CodeCamp](codeclannigeria.dev)
+⚡ **What I do** 
+  - 👩‍🎓Student at [Obafemi Awolowo University]
+  - 👨‍💻Trainee at [Kodecamp](https://kodehauz.com)
+  - 🧍‍♂️Volunteer at [CodeCamp](codeclannigeria.dev)
   
-  🌱 I’m currently learning ...
-   .🏫 JavaScript and ReactJS
+🌱 I’m currently learning 
+   -🏫 JavaScript and ReactJS
   
-   ⚡ More about me
-    . I'm strong willied, teachable, diligent. 
+⚡ **More about me**
+    - I'm strong willied, teachable, diligent. 
     
+   
+- 📫 How to reach me: 
+	- Twitter: [phemmyblaz](https://twitter.com/phemmyblaz), 
+	- LinkedIn: [Akinuliola Akinbobola](https://www.linkedin.com/in/akinulilalaakinbobolaoluwafemi/),
+	- Mail: [Send a mail!](gmail: aakinuliola@gmail.com)
     
-    
-    📫 How to reach me: 
-    -Twitter: @phemmyblaz,
-    -LindkedIn: Akinuliola Akinbobola, 
-    -Mail: aakinuliola@gmail.com
 
-    ⚡ Fun fact: I love Hiking
+
+ ⚡ Fun fact: I love Hiking
     
     
 
