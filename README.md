@@ -9,13 +9,11 @@ Frontend Engineer with rock-solid experience in building interactive website wit
   
 🌱 **What I'm learning**  
    -🏫 JavaScript and ReactJS
-  
-⚡ **More about me**
-    - I'm strong willied,
-    - Teachable, 
-    - Diligent. 
-    
    
+   ⚡ **More about me** 
+  - I'm Teachable
+  - I'm Diligent 
+  - I'm strong willed   
 - 📫 How to reach me: 
 	- Twitter: [phemmyblaz](https://twitter.com/phemmyblaz) 
 	- LinkedIn: [Akinuliola Akinbobola](https://www.linkedin.com/in/akinulilalaakinbobolaoluwafemi/)
