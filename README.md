@@ -16,7 +16,7 @@ Frontend Engineer with rock-solid experience in building interactive website wit
   - I'm strong willed 
 
  
-- 📫 How to reach me: 
+- 📫 **How to reach me:** 
 	- Twitter: [phemmyblaz](https://twitter.com/phemmyblaz) 
 	- LinkedIn: [Akinuliola Akinbobola](https://www.linkedin.com/in/akinulilalaakinbobolaoluwafemi/)
 	- Mail: [Send a mail!](gmail: aakinuliola@gmail.com)
