@@ -5,8 +5,8 @@ Here are some ideas to get you started:
   
   ⚡ What I do 
   . 👩‍🎓Student at [Obafemi Awolowo University]
-  . 👨‍💻Trainee at [Kodecamp](www.kodecamp.com)
-  . 🧍‍♂️Volunteer at [CodeCamp](www.codecamp.dev)
+  . 👨‍💻Trainee at [Kodecamp](https://kodehauz.com)
+  . 🧍‍♂️Volunteer at [CodeCamp](codeclannigeria.dev)
   
   🌱 I’m currently learning ...
    .🏫 JavaScript and ReactJS
