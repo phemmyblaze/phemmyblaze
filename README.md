@@ -1,19 +1,20 @@
-### Hi there 👋
-
-Frontend Engineer with soild experience in building interractive website with Html and css
+### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+Frontend Engineer with rock-solid experience in building interactive website with Html and css. I author meaningful technical content, occassionally ✍🏽.
 
 Here are some ideas to get you started:
   
   ⚡ What I do 
-  . 👩‍🎓Student at Obafemi Awolowo University
-  . 👨‍💻Trainee at Kodecamp.
-  . 🧍‍♂️Volunteer at CodeCamp
+  . 👩‍🎓Student at [Obafemi Awolowo University]
+  . 👨‍💻Trainee at [Kodecamp](www.kodecamp.com)
+  . 🧍‍♂️Volunteer at [CodeCamp](www.codecamp.dev)
   
   🌱 I’m currently learning ...
    .🏫 JavaScript and ReactJS
   
    ⚡ More about me
     . I'm strong willied, teachable, diligent. 
+    
+    
     
     📫 How to reach me: 
     -Twitter: @phemmyblaz,
@@ -22,5 +23,19 @@ Here are some ideas to get you started:
 
     ⚡ Fun fact: I love Hiking
     
-   
+    
+
+  <a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyblaze&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>
+
+  <a href="/" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=phemmyblaze&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+  </a>
+</div>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=phemmyblaze&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="700"
+/>
+
 
