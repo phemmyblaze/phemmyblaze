@@ -3,8 +3,7 @@ Frontend Engineer with rock-solid experience in building interactive website wit
 
   
 ⚡ **What I do** 
-  - 👩‍🎓Student at [Obafemi Awolowo University]
-  - 👨‍💻Trainee at [Kodecamp](https://kodehauz.com)
+  - 👨‍💻Finalist at [Kodecamp](https://kodehauz.com)
   - 🧍‍♂️Volunteer at [CodeCamp](https://codeclannigeria.dev)
   - 🧍‍♂️Mentor at [Kodecamp](https://kodehauz.com)
   
