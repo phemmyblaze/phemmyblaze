@@ -1,14 +1,14 @@
 ### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-Frontend Engineer with rock-solid experience in building interactive website with Html and css. I author meaningful technical content, write occassionally ✍🏽.
+I am a student of Cyclobold school of software enginnering where am currently in the process of becoming a MERN stack developer.
 
   
 ⚡ **What I do** 
   - 👨‍💻Finalist at [Kodecamp](https://kodehauz.com)
-  - 🧍‍♂️Volunteer at [CodeCamp](https://codeclannigeria.dev)
-  - 🧍‍♂️Mentor at [Kodecamp](https://kodehauz.com)
+  - 👨‍🎓Student at [Cyclobold](https://cyclobold.com/)
+  - 🧍‍♂️Ex Mentor at [Kodecamp](https://kodehauz.com)
   
 🌱 **What I'm learning**  
-   -🏫 JavaScript and ReactJS
+   -🏫 Javascript, NodeJS, MongoDB, ReactJS and ExpressJS.
    
    ⚡ **More about me** 
   - I'm Teachable
