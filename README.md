@@ -1,5 +1,5 @@
 ### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-I am a student of Cyclobold school of software enginnering where am currently in the process of becoming a MERN stack developer.
+Frontend developer React, Javascript
 
   
 ⚡ **What I do** 
@@ -7,8 +7,8 @@ I am a student of Cyclobold school of software enginnering where am currently in
   - 👨‍🎓Student at [Cyclobold](https://cyclobold.com/)
   - 🧍‍♂️Ex Mentor at [Kodecamp](https://kodehauz.com)
   
-🌱 **What I'm learning**  
-   -🏫 Javascript, NodeJS, MongoDB, ReactJS and ExpressJS.
+<!---🌱 **What I'm learning**  
+   -🏫 Javascript, NodeJS, MongoDB, ReactJS and ExpressJS. --->
    
    ⚡ **More about me** 
   - I'm Teachable
