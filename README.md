@@ -1,5 +1,6 @@
 ### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-Frontend developer React, Javascript
+I'm Phemmyblaze, A historian and  a frontend developer [React, Javascript]. 
+I love to bring design to life...
 
   
 ⚡ **What I do** 
