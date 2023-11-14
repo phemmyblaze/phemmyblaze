@@ -5,7 +5,6 @@ I love to bring design to life...
   
 ⚡ **What I do** 
   - 👨‍💻Frontend developer at TechDroidsystems
-  - 👨‍🎓Student at [Cyclobold](https://cyclobold.com/)
   - 🧍‍♂️Mentor at [Kodecamp](https://kodehauz.com)
 
   
