@@ -4,9 +4,10 @@ I love to bring design to life...
 
   
 ⚡ **What I do** 
-  - 👨‍💻Finalist at [Kodecamp](https://kodehauz.com)
+  - 👨‍💻Frontend developer at TechDroidsystems
   - 👨‍🎓Student at [Cyclobold](https://cyclobold.com/)
-  - 🧍‍♂️Ex Mentor at [Kodecamp](https://kodehauz.com)
+  - 🧍‍♂️Mentor at [Kodecamp](https://kodehauz.com)
+
   
 <!---🌱 **What I'm learning**  
    -🏫 Javascript, NodeJS, MongoDB, ReactJS and ExpressJS. --->
