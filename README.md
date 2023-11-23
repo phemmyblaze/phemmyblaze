@@ -23,7 +23,7 @@ Collaboration is my second nature, and my thirst for knowledge is dynamic. I thr
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=phemmyblaze&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=phemmyblaze&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!--[![](https://visitcount.itsvg.in/api?id=phemmyblaze&icon=5&color=11)](https://visitcount.itsvg.in)-->
 
