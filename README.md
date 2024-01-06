@@ -7,7 +7,7 @@ Collaboration is my second nature, and my thirst for knowledge is dynamic. I thr
 
 ⚡ Fun fact: When I'm not coding, I am listening to music or scrolling through the internet for memes 😎😎
 
-👨‍💻 Frontend developer Intern TechDroid Systems
+
 
 👨‍💻 Volunteer Frontend developer Ekocrib
 
