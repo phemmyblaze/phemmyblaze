@@ -64,45 +64,23 @@ const phemmy = {
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=phemmyblaze&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=phemmyblaze&theme=radical&hide_border=false)<br/>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=phemmyblaze&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+<!--[![](https://visitcount.itsvg.in/api?id=phemmyblaze&icon=5&color=11)](https://visitcount.itsvg.in)-->
 
-
-```
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phemmyblaze&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phemmyblaze&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyblaze&theme=radical&hide_border=true&layout=compact&count_private=true&include_all_commits=true)
-
+<div>
+<!--   <a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyblaze&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>  -->
+<!--     ![trophy](https://github-profile-trophy.vercel.app/?username=phemmyblaze) -->
+</div>    
+<div>
+<!--   <a href="/" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=phemmyblaze&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+  </a> -->
 </div>
-
-github_stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phemmyblaze&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phemmyblaze&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyblaze&theme=radical&hide_border=true&layout=compact&count_private=true&include_all_commits=true)
-
-</div>
-
----
-
-// currently
-
-```diff
-+ Working on:   Production admin panels with Next.js + React Query
-+ Learning:     Advanced TypeScript patterns & system design
-+ Listening to: Something with a good beat 🎵
-+ Mood:         In the zone 🎯
-```
-
----
 
 ## `// let's_connect`
 
