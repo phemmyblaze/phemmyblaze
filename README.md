@@ -69,9 +69,17 @@ const phemmy = {
 
 ```
 
----
+<div align="center">
 
-## `// github_stats`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phemmyblaze&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phemmyblaze&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phemmyblaze&theme=radical&hide_border=true&layout=compact&count_private=true&include_all_commits=true)
+
+</div>
+
+github_stats`
 
 <div align="center">
 
@@ -85,7 +93,7 @@ const phemmy = {
 
 ---
 
-## `// currently`
+// currently
 
 ```diff
 + Working on:   Production admin panels with Next.js + React Query
