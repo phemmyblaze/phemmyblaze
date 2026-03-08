@@ -9,13 +9,13 @@
 ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝   ╚═╝   
 ```
 
-### `< Akinuliolakunbi Akinbobola />` — Frontend Engineer
+### `< Akinuliola Akinbobola Oluwafemi />` — Frontend Engineer
 
 *Crafting pixels into experiences. One component at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinuliolaakinbobola/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/phemmyblaz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/phemmyblaze)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/_phemmyblaze)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://akinbobola-website.vercel.app/)
 
 </div>
 
@@ -28,8 +28,8 @@ const phemmy = {
   role        : "Frontend Developer",
   location    : "Nigeria 🇳🇬",
   experience  : "Building things people love to use",
-  focus       : ["React", "JavaScript", "Tailwind CSS", "UI/UX"],
-  currentlyOn : "Shipping production-grade admin dashboards",
+  focus       : ["React", "JavaScript", "Tailwind CSS", "NextJs"],
+  currentlyOn : "Shipping production-grade products",
   collab      : true,
   openToWork  : true,
 
@@ -63,23 +63,11 @@ const phemmy = {
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat-square&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
-## `// what_i_build`
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🖥️  Admin Dashboards     →  Data-rich, real-world UI  │
-│   🎨  Design Systems       →  Reusable, scalable comps  │
-│   ⚡  Interactive UIs      →  Smooth, delightful UX     │
-│   🔗  API Integrations     →  Clean data-fetching arch  │
-│   📱  Responsive Layouts   →  Mobile-first, always      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
 ```
 
 ---
